@@ -1,0 +1,16 @@
+importlib-metadata
+lxml
+matplotlib
+numpy
+pandas
+pickleshare
+Pillow
+prompt-toolkit
+scapy
+scikit-learn
+scipy
+seaborn
+typing-extensions
+xgboost
+pytorch
+tensorflow
